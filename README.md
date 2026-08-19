@@ -63,9 +63,11 @@ Please follow the instructions provided on the Nexus Mods page for enabling or d
 **Easy Anti-Cheat Toggler — TechieW**  
 [TechieW's Nexus Mods page](https://www.nexusmods.com/eldenring/mods/90)
 
-The multiplayer mod included in the provided mod package is an older version. The original project website is no longer available and I have been unable to locate the original creators.
+**Seamless Co-op**
+[LukeYui]
 
-If you are the creator of this multiplayer mod, or know who the original creators are, please contact me so I can provide proper credit and link to the original project.
+The multiplayer mod included in the provided mod package is an older version.
+The original project website is no longer available and I have been unable to locate a newer version.
 
 Please support the original creators of all included mods whenever possible.
 
