@@ -45,7 +45,7 @@ The multiplayer mod will still function with Easy Anti-Cheat disabled.
 
 The required mods are available here:
 
-**[ERSS2, Seamless Co-op, and Required Mods](https://1drv.ms/f/c/0e9560ecf4c7c28a/IgBOg4BhxaTlS5NYG5Fy9BBOAa3TB44fPvATv_L44QBcBG4)**
+**[Settings-Remasterd, ERSS2, Seamless Co-op, and Required Mods](https://1drv.ms/f/c/0e9560ecf4c7c28a/IgBOg4BhxaTlS5NYG5Fy9BBOAa3TB44fPvATv_L44QBcBG4)**
 
 **[Seamless Co-op - From Nexus Mods](https://www.nexusmods.com/eldenring/mods/510)**
 
@@ -56,16 +56,14 @@ An Easy Anti-Cheat toggler by **TechieW** is available on Nexus Mods:
 **[Easy Anti-Cheat Toggler](https://www.nexusmods.com/eldenring/mods/90)**
 
 ## Instructions for How to install
-1. Download Settings Remasterd from this git hub 'click code, then download zip'
-
-2. Download the required files from the first link.   
+1. Download the required files from the first link.   
   "you can get an updated version of Seamless Co-op from the second link but compatability may be an isue."
 
-3. Unzip all the downloaded files and copy them directly into you Eldenring Game folder.
+2. Unzip all the downloaded files and copy them directly into you Eldenring Game folder.
    
-4. Run the Easy Anti-Cheat toggler and also insure steam is open.
+3. Run the Easy Anti-Cheat toggler and also insure steam is open.
    
-5. Start "eldenring_online.exe" and enjoy! 😁  
+4. Start "eldenring_online.exe" and enjoy! 😁  
    "Find more info on how to use Seamless Co-op from the second link."
 
 ## Credits
