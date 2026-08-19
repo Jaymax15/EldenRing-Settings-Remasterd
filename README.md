@@ -45,7 +45,7 @@ The multiplayer mod will still function with Easy Anti-Cheat disabled.
 
 The required mods are available here:
 
-**[Download ERSS2, Multiplayer Mod and Required Mods](https://1drv.ms/f/c/0e9560ecf4c7c28a/IgBOg4BhxaTlS5NYG5Fy9BBOAa3TB44fPvATv_L44QBcBG4)**
+**[ERSS2, Multiplayer and Required Mods](https://1drv.ms/f/c/0e9560ecf4c7c28a/IgBOg4BhxaTlS5NYG5Fy9BBOAa3TB44fPvATv_L44QBcBG4)**
 
 ### Easy Anti-Cheat Toggler
 
