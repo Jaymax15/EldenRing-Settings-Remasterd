@@ -1,212 +1,91 @@
-# Remastered Settings – Elden Ring
+Remastered Settings
 
-**Remastered Settings** is a simple external settings manager for **Elden Ring** designed to make configuring a modded game setup faster and easier.
+Remastered Settings is a lightweight settings manager for modded Elden Ring, built to make modern graphics, multiplayer, and character management easier to access from one place.
 
-The program provides easy access to standard in-game settings, additional graphics options supplied by the **ERSS2** mod, character save slots, and multiplayer settings — all from one convenient interface.
+Designed for use with ERSS2 and the Elden Ring multiplayer mod.
 
-> ⚠️ **Important:** This project is intended to be used with the Elden Ring multiplayer mod and ERSS2. The game must be launched with **Easy Anti-Cheat disabled** for this setup.
+Features
 
----
+Modern graphics options provided by ERSS2
 
-## ✨ Features
+DLSS, FSR, FSR3 Frame Generation, XeSS, NIS, HDR and more
 
-### 🎮 Game Settings
+Removes the standard 60 FPS limitation and improves support for high-refresh-rate displays
 
-Quick access to Elden Ring's graphics and display settings, including:
+Quick access to Elden Ring's standard graphics settings
 
-- Resolution
-- Fullscreen settings
-- Texture quality
-- Anti-aliasing
-- Ambient occlusion
-- Depth of field
-- Motion blur
-- Shadow quality
-- Lighting quality
-- Effects quality
-- Reflection quality
-- Water quality
-- Shader quality
-- Volumetric effects
-- Ray tracing
-- Global illumination
-- Grass quality
-- And more
+Character-specific save slots with save/load, import and export
 
-### 🚀 ERSS2 Graphics Settings
+Dedicated multiplayer settings
 
-Remastered Settings also exposes additional graphics options provided by the **ERSS2** mod, including support for modern upscaling and rendering technologies such as:
+Simple interface designed for quick configuration
 
-- **NVIDIA DLSS**
-- **AMD FSR**
-- **FSR 3 / Frame Generation**
-- **Intel XeSS**
-- **NVIDIA NIS**
-- DLAA and other ERSS2 rendering options
-- Latency reduction
-- FPS controls
-- HDR controls
-- Additional renderer settings
+Screenshots
 
-ERSS2 is made by **Huutaiii**. Please support the original creator whenever possible:
+Game Settings
 
-- [Huutaiii on Patreon](https://www.patreon.com/huutaiii)
 
-### 💾 Character Save Slots
 
-The program adds convenient save-slot management for individual characters.
+Advanced / ERSS2 Settings
 
-You can keep separate save profiles for different characters and quickly save, load, export, or import them.
 
-This is especially useful when using the multiplayer setup and maintaining multiple characters.
 
-### 🌐 Multiplayer Settings
+Character Save Slots
 
-A dedicated multiplayer settings page makes commonly used multiplayer options quick and easy to configure without manually editing configuration files.
 
----
 
-## 🖼️ Screenshots
+Multiplayer Settings
 
-### Game Settings
 
-![Game Settings](01_game_settings.png)
 
-### Multiplayer Settings
+Requirements
 
-![Multiplayer Settings](02_multiplayer_settings.png)
+This program is intended to be used with:
 
-### Character Save Slots
+ERSS2 by Huutaiii
 
-![Character Save Slots](03_character_save_slots.png)
+Elden Ring multiplayer mod
 
-### Advanced / ERSS2 Settings
+Ultrawide Fix
 
-![Advanced Settings](04_advanced_settings.png)
+Remove Chromatic Aberration
 
----
+The game must be launched with Easy Anti-Cheat disabled.
 
-## 🧩 Required Mods
+The multiplayer mod will still function with Easy Anti-Cheat disabled.
 
-This project is designed to work alongside:
+Mod Downloads
 
-### ERSS2
+The required mods are available here:
 
-ERSS2 provides the additional graphics functionality used by Remastered Settings, including DLSS, FSR, XeSS, NIS, HDR, frame generation, and other rendering improvements.
+Download ERSS2, Multiplayer Mod and Required Mods
 
-**ERSS2 creator:** [Huutaiii](https://www.patreon.com/huutaiii)
+Easy Anti-Cheat Toggler
 
-### Multiplayer Mod
+An Easy Anti-Cheat toggler by TechieW is available on Nexus Mods:
 
-Remastered Settings is designed to be used with the Elden Ring multiplayer mod.
+Easy Anti-Cheat Toggler
 
-The multiplayer mod included with this project is an **older version**.
+Please follow the instructions provided on the Nexus Mods page for enabling or disabling Easy Anti-Cheat.
 
-The original website for the multiplayer mod is no longer available, and I have been unable to locate the original creators. If you are the creator of this mod, or know who the original creators are, please contact me so I can properly credit and link to the original project.
+Credits
 
-### Additional Mods
+ERSS2 — Huutaiii
+Support Huutaiii on Patreon
 
-The included setup also contains:
+Easy Anti-Cheat Toggler — TechieW
+TechieW's Nexus Mods page
 
-- **Ultrawide Fix**
-- **Remove Chromatic Aberration**
+The multiplayer mod included in the provided mod package is an older version. The original project website is no longer available and I have been unable to locate the original creators.
 
-These are included to improve the experience on modern displays and reduce some of Elden Ring's visual limitations.
+If you are the creator of this multiplayer mod, or know who the original creators are, please contact me so I can provide proper credit and link to the original project.
 
----
+Please support the original creators of all included mods whenever possible.
 
-## 📥 Downloads
+Disclaimer
 
-### ERSS2 and Required Mods
+Remastered Settings is a third-party project and is not affiliated with or endorsed by FromSoftware or Bandai Namco Entertainment.
 
-I have provided a Google Drive download containing ERSS2 and the required additional mods:
+Use mods at your own risk and keep backups of your save files.
 
-**[Google Drive Download](PASTE-YOUR-GOOGLE-DRIVE-LINK-HERE)**
-
-> Replace the link above with your actual Google Drive link before publishing the README.
-
-### Easy Anti-Cheat Toggler
-
-You can download the Easy Anti-Cheat toggler made by **TechieW** here:
-
-- [Easy Anti-Cheat Toggler – Nexus Mods](https://www.nexusmods.com/eldenring/mods/90)
-
-The Nexus Mods page contains instructions explaining how to enable and disable Easy Anti-Cheat.
-
----
-
-## ⚠️ Easy Anti-Cheat
-
-**Easy Anti-Cheat must be disabled when using this modded setup.**
-
-The multiplayer mod is designed to work with Easy Anti-Cheat disabled.
-
-Please follow the instructions provided with the Easy Anti-Cheat toggler to switch EAC off before launching the modded game.
-
-**Do not attempt to use this setup with Easy Anti-Cheat enabled.**
-
----
-
-## 🖥️ Why use Remastered Settings?
-
-Elden Ring was originally designed around older PC hardware and display standards. Modern systems can have much higher refresh rates, ultrawide resolutions, and significantly more powerful GPUs.
-
-This project aims to make a modded Elden Ring setup feel more like a modern PC game by providing easier access to:
-
-- Higher refresh-rate displays
-- Modern upscaling technologies
-- Frame generation
-- HDR
-- Ultrawide resolutions
-- Modern GPU features
-- More flexible FPS settings
-- Easier multiplayer configuration
-- Convenient character save management
-
-The goal is to make the game **look better, run better, and be easier to configure on modern systems**.
-
----
-
-## ❤️ Credits & Support
-
-A large part of what makes this project possible comes from other mod creators.
-
-Please support the original creators of the mods used with this project whenever possible.
-
-### ERSS2
-
-Created by **Huutaiii**
-
-[Support Huutaiii on Patreon](https://www.patreon.com/huutaiii)
-
-### Easy Anti-Cheat Toggler
-
-Created by **TechieW**
-
-[Easy Anti-Cheat Toggler on Nexus Mods](https://www.nexusmods.com/eldenring/mods/90)
-
-### Multiplayer Mod
-
-The multiplayer mod included with this project is an older version. Unfortunately, the original project website is no longer available and I have not been able to identify the original creators.
-
-If you are the creator of the multiplayer mod included here, **please contact me** so I can give you proper credit and link to the original project.
-
-Thank you to everyone who has contributed to the Elden Ring modding community. ❤️
-
----
-
-## ⚠️ Disclaimer
-
-This project is a third-party utility and is not affiliated with or endorsed by FromSoftware or Bandai Namco Entertainment.
-
-Use mods and modified game files at your own risk.
-
-Always keep backups of your save files before experimenting with mods.
-
----
-
-## 🙏 Enjoy!
-
-I hope **Remastered Settings** makes your modded Elden Ring experience easier, cleaner, and more enjoyable.
-
-**Thank you for using Remastered Settings, and enjoy the game!** ⚔️
+Enjoy Remastered Settings and enjoy Elden Ring! ⚔️
