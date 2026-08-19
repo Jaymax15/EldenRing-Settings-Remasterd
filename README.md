@@ -68,9 +68,6 @@ Please follow the instructions provided on the Nexus Mods page for enabling or d
 **Seamless Co-op  — LukeYui**  
 [LukeYui Nexus Mods page](https://www.nexusmods.com/eldenring/mods/510)
 
-The multiplayer mod included in the provided mod package is an older version.
-The original project website is no longer available and I have been unable to locate a newer version.
-
 Please support the original creators of all included mods whenever possible.
 
 ## Disclaimer
